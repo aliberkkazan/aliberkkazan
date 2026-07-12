@@ -4,8 +4,6 @@
 
 I am a software engineer focused on building scalable mobile and web applications. I primarily work with **React Native**, **React**, **TypeScript**, and **Python**, developing production-ready products from user interfaces to backend services and cloud infrastructure.
 
-I currently contribute to **Spacture AI**, an AI-powered retail security platform used by stores in the United States and other regions worldwide.
-
 ---
 
 ## 👨‍💻 About Me
@@ -17,25 +15,6 @@ I currently contribute to **Spacture AI**, an AI-powered retail security platfor
 * ☁️ Familiar with AWS, Google Cloud Platform, Firebase, and cloud deployments
 * 🧠 Interested in AI-powered products, scalable systems, and developer experience
 * 🌍 Open to international and remote software engineering opportunities
-
----
-
-## 🚀 What I Work On
-
-At **Spacture AI**, I help develop and maintain a production mobile application available on both the **App Store** and **Google Play Store**.
-
-Some of the features I have worked on include:
-
-* Authentication and user management
-* Subscription and notification systems
-* AI-powered theft and security alerts
-* Live camera streaming and playback
-* Alert configuration and management
-* Image and attachment upload flows
-* Camera status and filtering systems
-* Employee entry and exit analytics
-* Admin and dashboard interfaces
-* Cloud-based backend integrations
 
 ---
 
