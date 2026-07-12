@@ -60,24 +60,6 @@ I am a software engineer focused on building scalable mobile and web application
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aliberkkazan&show_icons=true&hide_border=true"
-    alt="Ali Berk Kazan's GitHub statistics"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliberkkazan&layout=compact&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I am interested in working on international software products, particularly in mobile development, full-stack engineering, cloud systems, and AI-powered applications.
