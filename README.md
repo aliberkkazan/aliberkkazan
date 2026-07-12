@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi, I'm Ali Berk Kazan 👋
 
-<!--
-**aliberkkazan/aliberkkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Engineer | React Native, React, TypeScript & Python
 
-Here are some ideas to get you started:
+I am a software engineer focused on building scalable mobile and web applications. I primarily work with **React Native**, **React**, **TypeScript**, and **Python**, developing production-ready products from user interfaces to backend services and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently contribute to **Spacture AI**, an AI-powered retail security platform used by stores in the United States and other regions worldwide.
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Bachelor's Degree in Software Engineering
+* 💼 2+ years of professional software development experience
+* 📱 Specialized in mobile application development with React Native CLI
+* 🌐 Experienced in full-stack web and mobile development
+* ☁️ Familiar with AWS, Google Cloud Platform, Firebase, and cloud deployments
+* 🧠 Interested in AI-powered products, scalable systems, and developer experience
+* 🌍 Open to international and remote software engineering opportunities
+
+---
+
+## 🚀 What I Work On
+
+At **Spacture AI**, I help develop and maintain a production mobile application available on both the **App Store** and **Google Play Store**.
+
+Some of the features I have worked on include:
+
+* Authentication and user management
+* Subscription and notification systems
+* AI-powered theft and security alerts
+* Live camera streaming and playback
+* Alert configuration and management
+* Image and attachment upload flows
+* Camera status and filtering systems
+* Employee entry and exit analytics
+* Admin and dashboard interfaces
+* Cloud-based backend integrations
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile & Frontend
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square\&logo=sentry\&logoColor=white)
+
+---
+
+## 💡 Professional Highlights
+
+* Developed and maintained a production React Native application used internationally
+* Built mobile features for AI-powered retail security and monitoring systems
+* Worked with live video streams, playback systems, alerts, and camera management
+* Integrated REST APIs, Firebase services, push notifications, and cloud infrastructure
+* Built backend services using Python, FastAPI, PostgreSQL, and MongoDB
+* Worked with AWS Lambda, Amazon SQS, storage services, virtual machines, and cloud functions
+* Contributed to the full development lifecycle, including implementation, debugging, deployment, and production maintenance
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aliberkkazan&show_icons=true&hide_border=true"
+    alt="Ali Berk Kazan's GitHub statistics"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliberkkazan&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in working on international software products, particularly in mobile development, full-stack engineering, cloud systems, and AI-powered applications.
+
+* [LinkedIn](linkedin.com/in/ali-berk-kazan-60b557119)
+* [GitHub](https://github.com/aliberkkazan)
+
+---
+
+> Building reliable products, learning continuously, and turning complex problems into simple user experiences.
